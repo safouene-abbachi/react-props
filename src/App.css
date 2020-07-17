@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+​ .card {
+  width: 100px;
+  border: 2px solid;
+}
+.list {
+  background-color: yellow;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
